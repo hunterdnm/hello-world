@@ -9,3 +9,6 @@ learn how to use the git-hub respository, branch, and commit processes to make
 coding organized, collaborative, and (hopefully) correct.
 
 Hello World!
+
+
+Let's make some changes.
